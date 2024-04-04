@@ -11,7 +11,7 @@ Game using Python OpenGL library implementing basic computer graphic algorithms.
 
 ## Running the program
 
-To run the program, make sure the 'OpenGL' library folder and the 'Fire Extinguishing game.py' file is in the same directory. From that directory, run the command:
+To run the program, make sure the 'OpenGL' library folder and the 'Fire Extinguishing game.py' file are in the same directory. From that directory, run the command:
 
 ```bash
   python '.\Fire Extinguishing game.py'
@@ -20,9 +20,9 @@ To run the program, make sure the 'OpenGL' library folder and the 'Fire Extingui
 
 ## User guide
 
-- Use the arrow keys on the keyboard to move the helicopter up, down, left and right.
+- Use the arrow keys on the keyboard to move the helicopter up, down, left, and right.
 - Click on the engaged tank to release it.
-- Finish the game in allocated time to win.
+- Finish the game in the allocated time to win.
 - Check the game log in the output.
 
 
@@ -41,7 +41,7 @@ Contributions are always welcome!
 
 ## 🚀 About Me
 
-This is Udoy Saha. I am tech enthusiast, problem solver.
+This is Udoy Saha. I am a tech enthusiast, problem solver.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://udoysaha.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udoysaha103/)
