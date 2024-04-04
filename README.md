@@ -49,5 +49,5 @@ This is Udoy Saha. I am a tech enthusiast, problem solver.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at udoysaha103@gmail.com.
+If you have any feedback, please reach out to me at udoysaha103@gmail.com.
 
